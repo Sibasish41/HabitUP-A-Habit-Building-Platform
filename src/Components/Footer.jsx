@@ -15,7 +15,7 @@ function Footer() {
       </p>
 
       <p className="mt-2 text-sm">
-        Developed by Tanmay Naik✌️,  Abani and Sibasis
+        Developed by Tanmaya, Abani and Sibasish
       </p>
 
     </footer>
